@@ -20,3 +20,11 @@ The key outputs will be:
 - One or more Tableau dashboards.
 - A presentation of our work.
 - Jupyter notebooks, if we use them.
+
+## Process
+
+## Resuls 
+
+## Challenges
+
+## Future Goals
