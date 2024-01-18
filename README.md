@@ -23,7 +23,7 @@ The key outputs will be:
 
 ## Process
 
-## Resuls 
+## Results 
 
 ## Challenges
 
