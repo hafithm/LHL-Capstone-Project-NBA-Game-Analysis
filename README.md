@@ -3,12 +3,15 @@
 **Exploring Key Factors in NBA Game Outcomes and Team Performance using Historical Game Data.**
 
 ### Project/Goals
-In this project, we delve into the intricacies of NBA games, focusing on aspects beyond just predicting outcomes. Our goal is to understand the factors that contribute to team success and player development.
+In this project, we analyze various elements that contribute to NBA team success, using historical game data to uncover insights.
 
 ### Key Questions
 1. **Talent Scouting & Development:** How do scouting and player growth influence team performance?
 2. **Team Roster Composition:** What is the impact of roster makeup on a team's success?
 3. **Team Culture & Leadership:** How do these elements affect a team's on-court achievements?
+4. All-Star Influence: How do All-Star selections within a team influence its overall success?
+5. Scoring Efficiency: What is the relationship between players' field goal percentages and a team’s playoff performance?
+
 
 ### Process
 We will utilize a comprehensive approach, combining various technical skills:
