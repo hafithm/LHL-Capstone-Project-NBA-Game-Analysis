@@ -1,27 +1,23 @@
-# NBA-Game-Prediction-Model
-Develop a predictive model to forecast NBA game outcomes, using historical game data. The model should help in calculating betting odds and assist team management in player development strategy.
+# NBA-Game-Analysis
 
-## Project/Goals
-For this project, we'll apply everything we've learned in the course by doing the following:
+**Exploring Key Factors in NBA Game Outcomes and Team Performance using Historical Game Data.**
 
-1. Use pgadmin to write SQL queries for data retrieval.
-2. Clean the data using Python.
-3. Develop an interactive dashboard using Tableau.
+### Project/Goals
+In this project, we delve into the intricacies of NBA games, focusing on aspects beyond just predicting outcomes. Our goal is to understand the factors that contribute to team success and player development.
 
-We'll bring together all our bootcamp skills in a comprehensive project. This includes:
+### Key Questions
+1. **Talent Scouting & Development:** How do scouting and player growth influence team performance?
+2. **Team Roster Composition:** What is the impact of roster makeup on a team's success?
+3. **Team Culture & Leadership:** How do these elements affect a team's on-court achievements?
 
-- Getting data through SQL.
-- Exploratory Data Analysis (EDA) and cleaning with Python.
-- (Optional) Building statistical models.
-- Visualizing data with Tableau.
+### Process
+We will utilize a comprehensive approach, combining various technical skills:
 
-The key outputs will be:
+- **SQL Queries with pgAdmin:** For extracting data from the "NBA Stats (1947-present)" dataset.
+- **Data Cleaning with Python:** Preparing and refining the data for analysis.
+- **Exploratory Data Analysis (EDA):** Using Python to uncover trends and insights.
+- **Tableau Dashboard Development:** Creating interactive visualizations to display our findings.
 
-- One or more Tableau dashboards.
-- A presentation of our work.
-- Jupyter notebooks, if we use them.
-
-## Process
 
 ## Results 
 
