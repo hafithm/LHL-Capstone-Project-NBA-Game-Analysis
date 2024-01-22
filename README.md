@@ -9,13 +9,12 @@ In this project, we analyze various elements that contribute to NBA team success
 1. **Talent Scouting & Development:** How do scouting and player growth influence team performance?
 2. **Team Roster Composition:** What is the impact of roster makeup on a team's success?
 3. **All-Star Influence:** How do All-Star selections within a team influence its overall success?
-4. **Scoring Efficiency:** What is the relationship between players' field goal percentages and a team’s playoff performance?
+4. **Scoring Efficiency:** What is the relationship between players' field goal percentages and a team’s success?
 
 
 ### Process
 We will utilize a comprehensive approach, combining various technical skills:
 
-- **SQL Queries with pgAdmin:** For extracting data from the "NBA Stats (1947-present)" dataset.
 - **Data Cleaning with Python:** Preparing and refining the data for analysis.
 - **Exploratory Data Analysis (EDA):** Using Python to uncover trends and insights.
 - **Tableau Dashboard Development:** Creating interactive visualizations to display our findings.
