@@ -9,7 +9,6 @@ In this project, we analyze various elements that contribute to NBA team success
 1. **Talent Scouting & Development:** How do scouting and player growth influence team performance?
 2. **Team Roster Composition:** What is the impact of roster makeup on a team's success?
 3. **All-Star Influence:** How do All-Star selections within a team influence its overall success?
-4. **Scoring Efficiency:** What is the relationship between players' field goal percentages and a team’s success?
 
 
 ### Process
