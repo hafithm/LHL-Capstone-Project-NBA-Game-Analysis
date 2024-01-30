@@ -23,4 +23,4 @@ We will utilize a comprehensive approach, combining various technical skills:
 
 ## Challenges
 
-## Future Goals
+## Conclusion
