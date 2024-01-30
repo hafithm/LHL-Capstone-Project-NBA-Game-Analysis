@@ -3,7 +3,7 @@
 **Exploring Key Factors in NBA Game Outcomes and Team Performance using Historical Game Data.**
 
 ### Project/Goals
-In this project, we analyze various elements that contribute to NBA team success, using historical game data to uncover insights.
+In this project, we analyze various elements that contribute to NBA team success.
 
 ### Key Questions
 1. **Talent Scouting & Development:** How do scouting and player growth influence team performance?
@@ -35,6 +35,7 @@ Key Findings:
 
 - Teams with robust scouting departments that focus on analytics have higher success rates in drafting players who outperform their draft position expectations.
 - Development programs tailored to individual player needs result in a higher growth trajectory, particularly for players within their first three seasons.
+
 
 
 
