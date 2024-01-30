@@ -20,8 +20,7 @@ We will utilize a comprehensive approach, combining various technical skills:
 
 ## The Dataset
 
-The comprehensive dataset at the foundation of our analysis encompasses all NBA stats from the league's inception in 1947 to the present day. However, for the purpose of this study, we strategically focused on the 2022 NBA season stats. This decision allowed us to provide a current and relevant analysis, reflecting the latest trends and strategies employed in the league.
-By concentrating our efforts on the 2022 NBA season, we ensure that our findings are not only accurate but also actionable for teams and analysts looking to understand the current landscape of the NBA. This dataset serves as a snapshot of the league's current competitive environment and offers a platform for predictive analysis for upcoming seasons.
+The comprehensive dataset at the foundation of our analysis encompasses all NBA stats from the league's in 1947 to the present day. However, for the purpose of this study, we strategically focused on the 2022 NBA season stats. This decision allowed us to provide a current and relevant analysis, reflecting the latest trends and strategies employed in the league.
 
 ## Results
 
@@ -35,8 +34,6 @@ Key Findings:
 
 - Teams with robust scouting departments that focus on analytics have higher success rates in drafting players who outperform their draft position expectations.
 - Development programs tailored to individual player needs result in a higher growth trajectory, particularly for players within their first three seasons.
-
-
 
 
 
